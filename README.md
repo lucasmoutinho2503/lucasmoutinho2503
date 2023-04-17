@@ -1,5 +1,6 @@
-<img height =100% src="https://capsule-render.vercel.app/api?type=waving&color=000008Bheight=120&section=header"/>
+<img width =100% src="https://capsule-render.vercel.app/api?type=waving&color=892BB8height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=892BB8&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Moutinho)](https://git.io/typing-svg)
 
 
 # Hi, I'm Moutinho 👋
