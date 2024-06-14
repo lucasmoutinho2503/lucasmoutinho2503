@@ -1,4 +1,4 @@
-## Eai, sou (Lucas) Moutinho
+## Eai, me chamo (Lucas) Moutinho
 
 Don't speak Portuguese? [Click here](README-en.md) to view the English version.
 
